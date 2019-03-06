@@ -1,5 +1,6 @@
 package com.aashiq;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -41,8 +42,15 @@ public class PersonTest {
 
 
     @Test (expected = IllegalStateException.class) //Testing Fail Test
-    public void name() throws Exception{
+    public void nameFail() throws Exception{
         aashiq.printGenderMessage();
     }
 
+    @Ignore ("Adding Disable Test") //Added the Disable Test
+    @Test
+    public void genderDisable() throws Exception{
+        aashiq.gender();
+        String msg = aashiq.getGenderMessage();
+        assertEquals("I am male", msg);
+    }
 }

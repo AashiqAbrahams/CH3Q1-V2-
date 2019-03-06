@@ -15,11 +15,24 @@ public class Person
         return name;
     }
 
+    public void gender(){
+        male = true;
+    }
+
     public void printGenderMessage(){
         if(!male){
             throw new IllegalStateException();
         }
         System.out.println("I am male!");
     }
+
+    public String getGenderMessage(){
+        if(!male){
+            throw new IllegalStateException();
+        }
+        return "I am male!";
+    }
+
+
 
 }
