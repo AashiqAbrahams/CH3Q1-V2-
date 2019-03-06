@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c4ddde7-e37c-4ef2-a74d-ce423bdabb0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aashiq/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aashiq/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/aashiq/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/aashiq/PersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/aashiq/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aashiq/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aashiq/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aashiq/PersonTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter2.1/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter2.1/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter2.2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2.2/.idea/vcs.xml" afterDir="false" />
@@ -73,8 +67,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/com/aashiq/PersonTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="457">
-                  <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+                <state relative-caret-position="290">
+                  <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -188,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551906978733" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551907533869" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -275,14 +269,11 @@
       <option name="presentableId" value="Default" />
       <updated>1551897821008</updated>
       <workItem from="1551897826984" duration="1609000" />
-      <workItem from="1551900335275" duration="4576000" />
+      <workItem from="1551900335275" duration="4965000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PersonTest - 2019.03.06 at 21h 26m 00s.xml">
-      <configuration name="PersonTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PersonTest - 2019.03.06 at 22h 12m 36s.xml">
       <configuration name="PersonTest" configurationId="JUnit" />
     </history-entry>
@@ -310,9 +301,12 @@
     <history-entry file="PersonTest - 2019.03.06 at 23h 12m 46s.xml">
       <configuration name="PersonTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PersonTest - 2019.03.06 at 23h 13m 43s.xml">
+      <configuration name="PersonTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6185000" />
+    <option name="totallyTimeSpent" value="6574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -327,7 +321,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39561588" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4446764" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/aashiq/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="290">
+          <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
