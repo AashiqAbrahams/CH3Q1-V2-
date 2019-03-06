@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c4ddde7-e37c-4ef2-a74d-ce423bdabb0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aashiq/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aashiq/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/aashiq/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/aashiq/PersonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter2.1/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter2.1/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter2.2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2.2/.idea/vcs.xml" afterDir="false" />
@@ -48,8 +49,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/aashiq/Person.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+                <state relative-caret-position="315">
+                  <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
                   <folding>
                     <element signature="e#100#101#0" expanded="true" />
                     <element signature="e#132#133#0" expanded="true" />
@@ -65,8 +66,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/com/aashiq/PersonTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="19" selection-start-line="19" selection-end-line="19" />
+                <state relative-caret-position="-65">
+                  <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -92,8 +93,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/aashiq/App.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/aashiq/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aashiq/Person.java" />
         <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aashiq/Person.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/aashiq/PersonTest.java" />
       </list>
     </option>
@@ -180,7 +181,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551900286784" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551904744885" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -250,7 +251,7 @@
       <option name="presentableId" value="Default" />
       <updated>1551897821008</updated>
       <workItem from="1551897826984" duration="1609000" />
-      <workItem from="1551900335275" duration="826000" />
+      <workItem from="1551900335275" duration="3074000" />
     </task>
     <servers />
   </component>
@@ -261,12 +262,16 @@
     <history-entry file="PersonTest - 2019.03.06 at 21h 26m 00s.xml">
       <configuration name="PersonTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PersonTest - 2019.03.06 at 22h 12m 36s.xml">
+      <configuration name="PersonTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2435000" />
+    <option name="totallyTimeSpent" value="4683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -277,7 +282,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32985386" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32985386" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,7 +290,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32985386" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29749477" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32985386" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -315,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aashiq/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="315">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
             <element signature="e#100#101#0" expanded="true" />
             <element signature="e#132#133#0" expanded="true" />
@@ -326,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/aashiq/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="-65">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
