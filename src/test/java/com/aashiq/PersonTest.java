@@ -20,7 +20,7 @@ public class PersonTest {
         assertEquals("Aashiq", aashiq.getName()); // will pass
     }
 
-    @Test //Testing Object Identity
+    @Test  //Testing Object Identity
     public void intTest() throws Exception {
 
         int eyes = 2;
@@ -30,7 +30,7 @@ public class PersonTest {
         assertSame(eyes, ears);    // will pass
     }
 
-    @Test //Testing Object Identity
+    @Test (timeout = 2000)//Testing Object Identity and added timeout
     public void intTest2() throws Exception {
 
         int nose = 1;
